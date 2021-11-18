@@ -1,5 +1,6 @@
 import discord
 import sqlite3
+from loader import *
 
 from discord.ext import commands, tasks
 con = essential.con
